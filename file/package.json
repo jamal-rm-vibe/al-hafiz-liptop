@@ -1,0 +1,13 @@
+{
+  "name": "al-hafiz-laptop-store",
+  "version": "1.0.0",
+  "description": "Premium e-commerce storefront for Al Hafiz Laptop in Akora Khattak, KPK",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve ."
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Al Hafiz Laptop",
+  "license": "ISC"
+}
